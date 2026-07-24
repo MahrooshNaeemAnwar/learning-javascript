@@ -7,3 +7,20 @@ mera plan hai k main 30 din main *Javascript* seeekh longi
 ```
 git init
 ```
+
+### Lists
+
+- JAvascript
+- Python
+- Java
+- C++
+- C#
+- Kotlin
+
+
+---
+1. Lenovo
+2. Hp
+3. Dell
+
+
