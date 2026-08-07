@@ -29,5 +29,5 @@ Problems included:
 Make sure [Node.js](https://nodejs.org/) is installed, then run:
 
 ```bash
-node strings.js
+node Day03/strings.js
 ```

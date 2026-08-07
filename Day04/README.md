@@ -24,5 +24,5 @@ Problems included:
 Make sure [Node.js](https://nodejs.org/) is installed, then run:
 
 ```bash
-node conditionals.js
+node Day04/conditionals.js
 ```

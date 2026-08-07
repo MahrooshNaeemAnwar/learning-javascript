@@ -26,5 +26,5 @@ Problems included:
 Make sure [Node.js](https://nodejs.org/) is installed, then run:
 
 ```bash
-node operators.js
+node Day02/operators.js
 ```
